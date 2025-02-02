@@ -2,7 +2,7 @@
 Repositório criado a fim de armazenar a tarefa realizada para consolidar a compreensão dos conceitos relacionados ao uso de interrupções no microcontrolador RP2040 e explorar as funcionalidades da placa de desenvolvimento BitDogLab.
 
 __Autora:__ Ana Karolina Disigant Reis <br>
-__Vídeo da aplicação:__ (Controle de LEDs com interrupção e deboucing)[https://www.youtube.com/watch?v=msDtk2tPupo]
+__Vídeo da aplicação:__ [Controle de LEDs com interrupção e deboucing](https://www.youtube.com/watch?v=msDtk2tPupo)
 
 ## Objetivos
 • Compreender o funcionamento e a aplicação de interrupções em microcontroladores;<br>
