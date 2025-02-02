@@ -83,8 +83,6 @@ uint64_t last_button_b_timestamp = 0;
 - As variáveis `last_button_a_timestamp` e `last_button_b_timestamp` armazenam o **último tempo** em que cada botão foi pressionado.  
 - O valor `DEBOUNCE_DELAY_MS` define o **tempo mínimo entre duas detecções** para evitar múltiplos acionamentos causados pelo bouncing.
 
----
-
 __2.2. Verificação de debounce dentro da interrupção:__
 ```c
 void handle_button_irq(uint gpio, uint32_t events) {
