@@ -36,7 +36,7 @@ void flash_red_led() {
 3. O botão B deve decrementar o número exibido na matriz de LEDs cada vez que for pressionado;
 4. Os LEDs WS2812 devem ser usados para criar efeitos visuais representando números de 0 a 9.<br>
 
-__Requisitos do Projeto__
+## Requisitos do Projeto
 
 __1. Uso de interrupções:__ Todas as funcionalidades relacionadas aos botões devem ser implementadas
 utilizando rotinas de interrupção (IRQ).<br>
