@@ -45,7 +45,7 @@ const bool number_patterns[10][MATRIX_SIZE * MATRIX_SIZE] = {
 
 // Função para exibir o número na matriz
 void show_number(int number, PIO pio, uint sm) {
-    printf("Exibindo número: %d\n", number);  // Depuração
+    printf("Número: %d\n", number);  
     const bool *pattern = number_patterns[number];      
     uint32_t led_color = (green_intensity << 24) | (red_intensity << 16) | (blue_intensity << 8); // Cor padrão para os LEDs acesos
 
